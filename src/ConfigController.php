@@ -1,13 +1,13 @@
 <?php
 
-namespace Encore\Admin\Config;
+namespace Ladmin\Config;
 
-use Encore\Admin\Controllers\HasResourceActions;
-use Encore\Admin\Facades\Admin;
-use Encore\Admin\Form;
-use Encore\Admin\Grid;
-use Encore\Admin\Layout\Content;
-use Encore\Admin\Show;
+use Ladmin\Controllers\HasResourceActions;
+use Ladmin\Facades\Admin;
+use Ladmin\Form;
+use Ladmin\Grid;
+use Ladmin\Layout\Content;
+use Ladmin\Show;
 
 class ConfigController
 {

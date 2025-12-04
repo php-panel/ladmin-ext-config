@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\Config;
+namespace Ladmin\Config;
 
 use Illuminate\Database\Eloquent\Model;
 

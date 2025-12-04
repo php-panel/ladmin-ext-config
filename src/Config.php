@@ -1,9 +1,9 @@
 <?php
 
-namespace Encore\Admin\Config;
+namespace Ladmin\Config;
 
-use Encore\Admin\Admin;
-use Encore\Admin\Extension;
+use Ladmin\Admin;
+use Ladmin\Extension;
 
 class Config extends Extension
 {

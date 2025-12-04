@@ -1,7 +1,7 @@
 Config manager for laravel-admin
 ========================
 
-[![Packagist](https://img.shields.io/packagist/l/php-panel/ladmin-ext-config.svg?maxAge=2592000)](https://packagist.org/packages/php-panel/ladmin-ext-config)
+[![Packagist](https://img.shields.io/packagist/l/php-panel/ladmin-ext-config.svg)](https://packagist.org/packages/php-panel/ladmin-ext-config)
 [![Total Downloads](https://img.shields.io/packagist/dt/php-panel/ladmin-ext-config.svg?style=flat-square)](https://packagist.org/packages/php-panel/ladmin-ext-config)
 [![Pull request welcome](https://img.shields.io/badge/pr-welcome-green.svg?style=flat-square)]()
 
